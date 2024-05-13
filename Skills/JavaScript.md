@@ -2,120 +2,120 @@
 
 - Language
   - `Object`: 🙋 explained
-  - `Function`: 🖐️ used
-  - `Boolean`: 🖐️ used
-  - `Number`: 🖐️ used
-  - `BigInt`: 🖐️ used
-  - `String`: 🖐️ used
-  - `Symbol`: 🖐️ used
-  - `Infinity`: 🖐️ used
-  - `NaN`: 🖐️ used
-  - `undefined`: 🖐️ used
-  - `null`: 🖐️ used
+  - `Function`: 🙋 explained
+  - `Boolean`: 🙋 explained
+  - `Number`: 🙋 explained
+  - `BigInt`: 🙋 explained
+  - `String`: 🙋 explained
+  - `Symbol`: 🙋 explained
+  - `Infinity`: 🙋 explained
+  - `NaN`: 🙋 explained
+  - `undefined`: 🙋 explained
+  - `null`: 🙋 explained
   - `this`: 🖐️ used
-  - `instanceof`: 🖐️ used
+  - `instanceof`: 🙋 explained
   - `...spread`: 🖐️ used
   - `...rest`: 🖐️ used
-  - `typeof`: 🖐️ used
+  - `typeof`: 🙋 explained
   - Destructuring: 🖐️ used
-  - Generators: 🖐️ used
-  - Iterators: 🖐️ used
-  - Async generator: 🖐️ used
+  - Generators: 🙋 explained
+  - Iterators: 🙋 explained
+  - Async generator: 🙋 explained
   - Async iterator: 🖐️ used
-  - Chaining: 👂 heard
-  - Optional chaining: 👂 heard
+  - Chaining: 🖐️ used
+  - Optional chaining: 🖐️ used
   - IIFE: 👂 heard
-  - Async IIFE: 👂 heard
-  - `global`: 👂 heard
-  - `globalThis`: 👂 heard
-  - `window`: 👂 heard
+  - Async IIFE: 🖐️ used
+  - `global`: 🖐️ used
+  - `globalThis`: 🙋 explained
+  - `window`: 🖐️ used
   - Getters and setters: 🖐️ used
-  - `__proto__`: 👂 heard
+  - `__proto__`: 🙋 explained
   - `prototype`: 🖐️ used
   - Equality operators: 🖐️ used
   - Logical operators: 🖐️ used
-  - Logical Assignment: 👂 heard
-  - Bitwise operators: 👂 heard
+  - Logical Assignment: 🙋 explained
+  - Bitwise operators: 🙋 explained
   - Ternary operator: 🖐️ used
-  - `void`: 🖐️ used
-  - `yield`: 👂 heard
+  - `void`: 🙋 explained
+  - `yield`: 🙋 explained
   - `await`: 🖐️ used
   - Template literal: 👂 heard
   - Strict mode: 🖐️ used
-  - Hoisting: 👂 heard
-  - `delete`: 👂 heard
+  - Hoisting: 🙋 explained
+  - `delete`: 🙋 explained
   - `in`: 👂 heard
   - `super`: 🖐️ used
   - `eval`: 🖐️ used
   - `static`: 👂 heard
-  - `Number.parseInt`: 👂 heard
-  - `Number.parseFloat`: 👂 heard
-  - Property descriptors: 👂 heard
-  - Sealing properties: 👂 heard
-  - Freezing properties: 👂 heard
+  - `Number.parseInt`: 🖐️ used
+  - `Number.parseFloat`: 🖐️ used
+  - Property descriptors: 🖐️ used
+  - Sealing properties: 🖐️ used
+  - Freezing properties: 🖐️ used
   - Computed properties: 👂 heard
   - Instance class fields: 👂 heard
-  - Static class fields: 👂 heard
-  - Private class fields: 👂 heard
-  - Private class methods: 👂 heard
+  - Static class fields: 🖐️ used
+  - Private class fields: 🖐️ used
+  - Private class methods: 🖐️ used
 - Statements
-  - `if`: 🖐️ used
-  - `while`: 🖐️ used
-  - `do..while`: 🖐️ used
-  - `for`: 🖐️ used
-  - `for..in`: 🖐️ used
-  - `for..of`: 🖐️ used
+  - `if`: 🙋 explained
+  - `while`: 🙋 explained
+  - `do..while`: 🙋 explained
+  - `for`: 🙋 explained
+  - `for..in`: 🙋 explained
+  - `for..of`: 🙋 explained
   - `for await`: 🖐️ used
-  - `throw`: 🖐️ used
-  - `break`: 🖐️ used
+  - `throw`: 🙋 explained
+  - `break`: 🙋 explained
   - `continue`: 🖐️ used
-  - `import`: 🖐️ used
+  - `import`: 🙋 explained
   - `export`: 🖐️ used
   - `label`: 🖐️ used
-  - `try..catch`: 🖐️ used
-  - `switch`: 👂 heard
+  - `try..catch`: 🙋 explained
+  - `switch`: 🙋 explained
   - `class`: 🖐️ used
   - `extends`: 🖐️ used
-  - `with`: 👂 heard
+  - `with`: 🙋 explained
   - `new`: 🖐️ used
 - Functions
-  - Arrow function: 🖐️ used
+  - Arrow function: 🙋 explained
   - Async function: 🖐️ used
   - Function declaration: 🖐️ used
-  - Function expression: 🖐️ used
-  - Default parameters: 🖐️ used
-  - Functional object: 👂 heard
-  - `Function.prototype.call`: 👂 heard
-  - `Function.prototype.bind`: 👂 heard
-  - `Function.prototype.apply`: 👂 heard
-  - `return`: 🖐️ used
+  - Function expression: 🙋 explained
+  - Default parameters: 🙋 explained
+  - Functional object: 🖐️ used
+  - `Function.prototype.call`: 🖐️ used
+  - `Function.prototype.bind`: 🖐️ used
+  - `Function.prototype.apply`: 🖐️ used
+  - `return`: 🙋 explained
 - Data structures
-  - `Array`: 🖐️ used
-  - `Map`: 🖐️ used
-  - `Set`: 🖐️ used
+  - `Array`: 🙋 explained
+  - `Map`: 🙋 explained
+  - `Set`: 🙋 explained
   - `WeakMap`: 👂 heard
   - `WeakSet`: 👂 heard
-  - Typed arrays: 👂 heard
+  - Typed arrays: 🙋 explained
   - Mixins: 👂 heard
   - `Object.assign`: 👂 heard
 - Standard classes and namespaces
-  - `Proxy`: 👂 heard
-  - `RegExp`: 👂 heard
-  - `Date`: 👂 heard
+  - `Proxy`: 🖐️ used
+  - `RegExp`: 🖐️ used
+  - `Date`: 🖐️ used
   - `Math`: 🖐️ used
-  - `Reflect`: 👂 heard
+  - `Reflect`: 🖐️ used
   - `Error`: 🖐️ used
-  - `Atomics`: 👂 heard
+  - `Atomics`: 🖐️ used
   - `JSON`: 🖐️ used
-  - `WeakRef`: 👂 heard
-  - `FinalizationRegistry`: 👂 heard
+  - `WeakRef`: 🖐️ used
+  - `FinalizationRegistry`: 🖐️ used
   - `Intl`: 👂 heard
   - `Promise`: 🖐️ used
-  - `console`: 👂 heard
+  - `console`: 🖐️ used
   - Timers: 👂 heard
 - Infrastructure
   - V8: 👂 heard
-  - Node.js: 🖐️ used
+  - Node.js: 🙋 explained
   - npm: 🖐️ used
   - prettier: 🖐️ used
   - MDN: 👂 heard
