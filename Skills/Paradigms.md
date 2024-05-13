@@ -1,18 +1,18 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 🎓 known
-  - Imperative programming: 🎓 known
+  - Procedural programming: 🙋 explained
+  - Imperative programming: 🙋 explained
   - Structured programming: 🎓 known
-  - Non-structured programming: 🎓 known
+  - Non-structured programming: 🙋 explained
   - Functional programming: 🎓 known
   - Prototype-based programming
-  - Object-oriented programming: 🎓 known
+  - Object-oriented programming: 🙋 explained
   - Object-based programming: 🎓 known
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming: 🎓 known
-  - Parallel programming: 🎓 known
+  - Asynchronous programming: 🙋 explained
+  - Parallel programming: 🙋 explained
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -29,18 +29,18 @@
 - OOP basics
   - Constructor: 🎓 known
   - Operator `new`
-  - Static method: 🎓 known
+  - Static method: 🙋 explained
   - Method: 🎓 known
-  - Async method: 🎓 known
-  - Getters, Setters: 🎓 known
+  - Async method: 🙋 explained
+  - Getters, Setters: 🙋 explained
   - Public fields: 🎓 known
-  - Private fields: 🎓 known
+  - Private fields: 🙋 explained
   - Field declarations: 🎓 known
   - Inheritance
   - Parent class
-  - Polymorphism: 🎓 known
+  - Polymorphism: 🙋 explained
   - Abstract class
-  - Interface
+  - Interface: 🙋 explained
   - Encapsulation
   - Hidden class
   - Object form
@@ -65,26 +65,26 @@
   - Dependency inversion principle (DIP)
 - Patterns
   - Singleton
-  - Factory Method
+  - Factory Method: 🙋 explained
   - Abstract Factory
   - Adapter
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  - Proxy: 🙋 explained
   - Chain of Responsibility
   - Command
-  - Iterator
-  - State
+  - Iterator: 🙋 explained
+  - State: 🙋 explained
   - Bridge
   - Builder
-  - Prototype: 🎓 known
+  - Prototype: 🙋 explained
   - Composite
-  - Decorator: 🎓 known
+  - Decorator: 🙋 explained
   - Flyweight
   - Mediator
   - Memento
-  - Template Method
+  - Template Method: 🙋 explained
   - Visitor
   - Reactor
   - Active object
