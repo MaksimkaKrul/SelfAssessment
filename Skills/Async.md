@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
+  - Event loop: 🖐️ used
+  - `try..catch`: 🖐️ used
+  - Non-blocking: 👂 heard
+  - Async I/O: 🖐️ used
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -22,30 +22,30 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
-  - Future
+  - Callbacks: 🖐️ used
+  - Callback-last-error-first: 🖐️ used
+  - Thenable: 🎓 known
+  - Promise: 🎓 known
+  - Async/await: 🖐️ used
+  - Future: 🖐️ used
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
-  - Coroutine
+  - Sync generator: 🎓 known
+  - Async Generator: 🎓 known
+  - Async Iterator: 🎓 known
+  - Event: 🖐️ used
+  - Coroutine: 👂 heard
   - Goroutine
   - Signal
-  - Stream
-  - Chain of responsibility
+  - Stream: 👂 heard
+  - Chain of responsibility: 👂 heard
   - Middleware
   - Locks
 - Async adapters and utils
-  - callbackify
+  - callbackify: 👂 heard
   - promisify
-  - asyncify
-  - Callbacks compose
-  - Async compose
+  - asyncify: 👂 heard
+  - callbacks compose
+  - async compose
 - Async abstractions interfaces
   - EventEmitter
   - Observable/Observer
@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers: 👂 heard
   - `setImmediate`
   - `nextTick`
   - AbortController
