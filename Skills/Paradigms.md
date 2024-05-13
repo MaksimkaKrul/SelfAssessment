@@ -1,18 +1,18 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
+  - Procedural programming: 🎓 known
+  - Imperative programming: 🎓 known
+  - Structured programming: 🎓 known
+  - Non-structured programming: 🎓 known
+  - Functional programming: 🎓 known
   - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
+  - Object-oriented programming: 🎓 known
+  - Object-based programming: 🎓 known
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
+  - Asynchronous programming: 🎓 known
+  - Parallel programming: 🎓 known
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -20,25 +20,25 @@
   - Multi-paradigm programming
   - Metaprogramming
   - Actor model
-  - Lambda calculus
-  - Black box
+  - Lambda calculus: 🎓 known
+  - Black box: 🎓 known
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
+  - Constructor: 🎓 known
   - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
+  - Static method: 🎓 known
+  - Method: 🎓 known
+  - Async method: 🎓 known
+  - Getters, Setters: 🎓 known
+  - Public fields: 🎓 known
+  - Private fields: 🎓 known
+  - Field declarations: 🎓 known
   - Inheritance
   - Parent class
-  - Polymorphism
+  - Polymorphism: 🎓 known
   - Abstract class
   - Interface
   - Encapsulation
@@ -78,9 +78,9 @@
   - State
   - Bridge
   - Builder
-  - Prototype
+  - Prototype: 🎓 known
   - Composite
-  - Decorator
+  - Decorator: 🎓 known
   - Flyweight
   - Mediator
   - Memento
