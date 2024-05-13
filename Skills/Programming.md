@@ -4,145 +4,145 @@
   - Model: 🎓 known
   - Modeling: 🎓 known
   - Subject domain
-  - Algorithm: 🎓 known
-  - Syntax
+  - Algorithm: 🙋 explained
+  - Syntax: 🙋 explained
   - Semantics
-  - Abstraction
-  - Paradigm: 🎓 known
+  - Abstraction: 🙋 explained
+  - Paradigm: 🙋 explained
   - Programm: 🎓 known
-  - Programming paradigm: 🎓 known
-  - Programming language: 🎓 known
+  - Programming paradigm: 🙋 explained
+  - Programming language: 🖐️ used
   - Contract: 🎓 known
-  - Module: 🎓 known
-  - Library: 🎓 known
+  - Module: 🙋 explained
+  - Library: 🙋 explained
   - Package
-  - Component
-  - Framework: 🎓 known
+  - Component: 🙋 explained
+  - Framework: 🙋 explained
   - Platform: 🎓 known
-  - Source code: 🎓 known
+  - Source code: 🖐️ used
   - Object code: 🎓 known
   - Machine code: 🎓 known
   - Microcode
-  - Software engineering
+  - Software engineering: 🙋 explained
   - Decomposition
   - Control flow
   - Data flow
-  - Code reuse: 🎓 known
+  - Code reuse: 🙋 explained
   - Defensive programming
-  - Don't repeat yourself (DRY): 🎓 known
+  - Don't repeat yourself (DRY): 🙋 explained
   - KISS principle
 - Syntax and concepts
-  - Value: 🎓 known
-  - Identifier: 🎓 known
-  - Variable: 🎓 known
-  - Constant: 🎓 known
-  - Scalar: 🎓 known
-  - Literal: 🎓 known
-  - Expression: 🎓 known
-  - Heap: 🎓 known
-  - Function: 🎓 known
-  - Procedure: 🎓 known
-  - Method: 🎓 known
-  - Class: 🎓 known
-  - Prototype: 🎓 known
-  - Event: 🎓 known
-  - Type: 🎓 known
-  - Flag
+  - Value: 🙋 explained
+  - Identifier: 🙋 explained
+  - Variable: 🙋 explained
+  - Constant: 🙋 explained
+  - Scalar: 🙋 explained
+  - Literal: 🙋 explained
+  - Expression: 🙋 explained
+  - Heap: 🖐️ used
+  - Function: 🙋 explained
+  - Procedure: 🖐️ used
+  - Method: 🙋 explained
+  - Class: 🙋 explained
+  - Prototype: 🖐️ used
+  - Event: 🖐️ used
+  - Type: 🙋 explained
+  - Flag: 🖐️ used
   - Lexical scope
-  - Code block: 🎓 known
-  - Conditions
-  - Loops: 🎓 known
+  - Code block: 🙋 explained
+  - Conditions: 🙋 explained
+  - Loops: 🙋 explained
   - Assignment
   - Regular expression
   - Interface
-  - Namespaces
-  - Call stack: 🎓 known
-  - Naming conventions
+  - Namespaces: 🖐️ used
+  - Call stack: 🙋 explained
+  - Naming conventions: 🖐️ used
   - Coding conventions
-  - Camel case: 🎓 known
+  - Camel case: 🙋 explained
   - Snake case
   - Kebab case
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types: 🎓 known
-  - Reference types: 🎓 known
+  - Primitive types: 🙋 explained
+  - Reference types: 🖐️ used
   - Type systems
   - Strong typing
   - Weak typing: 🎓 known
   - Duck typing
   - Static typing
-  - Dynamic typing
+  - Dynamic typing: 🖐️ used
   - Nominal typing
   - Structural typing: 🎓 known
   - Explicit typing
-  - Type inference
+  - Type inference: 🖐️ used
   - Covariance
   - Contravariance
 - Functions
-  - Signature: 🎓 known
-  - Argument: 🎓 known
-  - Parameter: 🎓 known
-  - Pure function
-  - Lambda expression: 🎓 known
-  - Side effects
+  - Signature: 🙋 explained
+  - Argument: 🙋 explained
+  - Parameter: 🙋 explained
+  - Pure function: 🖐️ used
+  - Lambda expression: 🖐️ used
+  - Side effects: 🖐️ used
   - Closure: 🎓 known
-  - Partial application
-  - Currying: 🎓 known
+  - Partial application: 🖐️ used
+  - Currying: 🙋 explained
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback: 🎓 known
-  - Listener
+  - Callback: 🙋 explained
+  - Listener: 🙋 explained
   - Composition
   - Pipe
-  - Memoize: 🎓 known
-  - Wrapper: 🎓 known
+  - Memoize: 🙋 explained
+  - Wrapper: 🖐️ used
   - Functor: 🎓 known
-  - Monad
+  - Monad: 🖐️ used
   - Monoid
   - Generator: 🎓 known
   - Coroutine: 🎓 known
 - Data structures
-  - Array: 🎓 known
-  - Structure: 🎓 known
-  - Record
+  - Array: 🙋 explained
+  - Structure: 🙋 explained
+  - Record: 🙋 explained
   - Enum
-  - Instance: 🎓 known
-  - Object: 🎓 known
-  - Collection: 🎓 known
-  - Set: 🎓 known
-  - Hash table: 🎓 known
-  - Linked list: 🎓 known
+  - Instance: 🙋 explained
+  - Object: 🖐️ used
+  - Collection: 🙋 explained
+  - Set: 🙋 explained
+  - Hash table: 🖐️ used
+  - Linked list: 🖐️ used
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue: 🎓 known
-  - Stack: 🎓 known
-  - Deque: 🎓 known
-  - Tree: 🎓 known
-  - Graph: 🎓 known
-  - Iterator
+  - Queue: 🙋 explained
+  - Stack: 🙋 explained
+  - Deque: 🙋 explained
+  - Tree: 🙋 explained
+  - Graph: 🖐️ used
+  - Iterator: 🖐️ used
   - Mutable state
   - Immutable state
-  - Serialization: 🎓 known
-  - String parsing: 🎓 known
-  - JSON: 🎓 known
+  - Serialization: 🙋 explained
+  - String parsing: 🖐️ used
+  - JSON: 🖐️ used
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS: 🖐️ used
   - CDN
   - CORS
-  - IPv4
-  - IPv6
+  - IPv4: 🖐️ used
+  - IPv6: 🖐️ used
   - NAT
   - URL
   - URN
   - URI
 - Process and tools
-  - Compiler: 🎓 known
+  - Compiler: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -152,48 +152,48 @@
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime: 🎓 known
+  - Runtime: 🖐️ used
   - Virtual machine: 🎓 known
   - Register-based VM
   - Stack-based VM
   - Containerization
   - Debugger
   - Tracing
-  - Garbage collection: 🎓 known
-  - Refactoring: 🎓 known
-  - Code review: 🎓 known
+  - Garbage collection: 🖐️ used
+  - Refactoring: 🖐️ used
+  - Code review: 🖐️ used
   - Exception
   - Unittesting
-  - git: 🎓 known
-  - Github: 🎓 known
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker: 🎓 known
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers: 🙋 explained
+  - Hard code: 🙋 explained
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti: 🎓 known
-  - Silver bullet: 🎓 known
-  - Not invented here: 🎓 known
-  - Dead code: 🎓 known
-  - Unreachable code: 🎓 known
-  - Duplicate code: 🎓 known
+  - Spaghetti: 🖐️ used
+  - Silver bullet: 🖐️ used
+  - Not invented here: 🖐️ used
+  - Dead code: 🖐️ used
+  - Unreachable code: 🙋 explained
+  - Duplicate code: 🙋 explained
   - Premature optimization
-  - Micro-optimization: 🎓 known
-  - Nested loops
-  - Long method/function/procedure: 🎓 known
+  - Micro-optimization: 🙋 explained
+  - Nested loops: 🙋 explained
+  - Long method/function/procedure: 🙋 explained
   - Long inheritance
-  - Large class/file: 🎓 known
-  - Too many parameters
+  - Large class/file: 🙋 explained
+  - Too many parameters: 🙋 explained
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case: 🎓 known
+  - Use switch/case: 🙋 explained
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -209,11 +209,11 @@
   - Mono
 - Operating systems
   - Interrupts: 🎓 known
-  - Drivers: 🎓 known
+  - Drivers: 🙋 explained
   - Kernel: 🎓 known
   - Ring
   - Virtual memory: 🎓 known
-  - File system: 🎓 known
+  - File system: 🙋 explained
   - Linux
   - Unix
   - BSD
@@ -222,18 +222,18 @@
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII: 🎓 known
+  - ASCII: 🙋 explained
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64: 🎓 known
+  - Base64: 🖐️ used
   - ECMA
   - ICANN
   - ISO
   - MIME
   - OWASP
-  - UTF-8: 🎓 known
+  - UTF-8: 🖐️ used
   - W3C
   - ODMG
