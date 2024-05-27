@@ -4,145 +4,145 @@
   - Model: 🎓 known
   - Modeling: 🎓 known
   - Subject domain
-  - Algorithm: 🎓 known
-  - Syntax
+  - Algorithm: 🖐️ used
+  - Syntax: 🎓 known
   - Semantics
-  - Abstraction
+  - Abstraction: 🖐️ used
   - Paradigm: 🎓 known
   - Programm: 🎓 known
-  - Programming paradigm: 🎓 known
-  - Programming language: 🎓 known
+  - Programming paradigm: 🙋 explained
+  - Programming language: 🖐️ used
   - Contract: 🎓 known
   - Module: 🎓 known
-  - Library: 🎓 known
+  - Library: 🖐️ used
   - Package
-  - Component
-  - Framework: 🎓 known
+  - Component: 🖐️ used
+  - Framework: 🖐️ used
   - Platform: 🎓 known
-  - Source code: 🎓 known
+  - Source code: 🖐️ used
   - Object code: 🎓 known
   - Machine code: 🎓 known
   - Microcode
-  - Software engineering
+  - Software engineering: 🎓 known
   - Decomposition
   - Control flow
   - Data flow
-  - Code reuse: 🎓 known
+  - Code reuse: 🖐️ used
   - Defensive programming
   - Don't repeat yourself (DRY): 🎓 known
   - KISS principle
 - Syntax and concepts
-  - Value: 🎓 known
-  - Identifier: 🎓 known
-  - Variable: 🎓 known
-  - Constant: 🎓 known
-  - Scalar: 🎓 known
-  - Literal: 🎓 known
-  - Expression: 🎓 known
+  - Value: 🙋 explained
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🙋 explained
+  - Scalar: 🖐️ used
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
   - Heap: 🎓 known
-  - Function: 🎓 known
-  - Procedure: 🎓 known
-  - Method: 🎓 known
-  - Class: 🎓 known
-  - Prototype: 🎓 known
+  - Function: 🖐️ used
+  - Procedure: 🖐️ used
+  - Method: 🙋 explained
+  - Class: 🖐️ used
+  - Prototype: 🖐️ used
   - Event: 🎓 known
-  - Type: 🎓 known
-  - Flag
+  - Type: 🖐️ used
+  - Flag: 🎓 known
   - Lexical scope
   - Code block: 🎓 known
-  - Conditions
-  - Loops: 🎓 known
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
   - Assignment
   - Regular expression
   - Interface
-  - Namespaces
-  - Call stack: 🎓 known
-  - Naming conventions
+  - Namespaces: 🖐️ used
+  - Call stack: 🙋 explained
+  - Naming conventions: 🖐️ used
   - Coding conventions
-  - Camel case: 🎓 known
+  - Camel case: 🖐️ used
   - Snake case
   - Kebab case
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types: 🎓 known
-  - Reference types: 🎓 known
+  - Primitive types: 🖐️ used
+  - Reference types: 🖐️ used
   - Type systems
   - Strong typing
   - Weak typing: 🎓 known
   - Duck typing
   - Static typing
-  - Dynamic typing
+  - Dynamic typing: 🖐️ used
   - Nominal typing
   - Structural typing: 🎓 known
   - Explicit typing
-  - Type inference
+  - Type inference: 🖐️ used
   - Covariance
   - Contravariance
 - Functions
   - Signature: 🎓 known
-  - Argument: 🎓 known
-  - Parameter: 🎓 known
-  - Pure function
-  - Lambda expression: 🎓 known
-  - Side effects
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
+  - Pure function: 🖐️ used
+  - Lambda expression: 🖐️ used
+  - Side effects: 🖐️ used
   - Closure: 🎓 known
-  - Partial application
+  - Partial application: 🖐️ used
   - Currying: 🎓 known
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback: 🎓 known
-  - Listener
+  - Callback: 🖐️ used
+  - Listener: 🎓 known
   - Composition
   - Pipe
   - Memoize: 🎓 known
-  - Wrapper: 🎓 known
+  - Wrapper: 🖐️ used
   - Functor: 🎓 known
-  - Monad
+  - Monad: 🖐️ used
   - Monoid
   - Generator: 🎓 known
   - Coroutine: 🎓 known
 - Data structures
-  - Array: 🎓 known
-  - Structure: 🎓 known
-  - Record
+  - Array: 🖐️ used
+  - Structure: 🖐️ used
+  - Record: 🖐️ used
   - Enum
-  - Instance: 🎓 known
-  - Object: 🎓 known
-  - Collection: 🎓 known
-  - Set: 🎓 known
-  - Hash table: 🎓 known
-  - Linked list: 🎓 known
+  - Instance: 🖐️ used
+  - Object: 🖐️ used
+  - Collection: 🖐️ used
+  - Set: 🖐️ used
+  - Hash table: 🖐️ used
+  - Linked list: 🖐️ used
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue: 🎓 known
-  - Stack: 🎓 known
-  - Deque: 🎓 known
-  - Tree: 🎓 known
-  - Graph: 🎓 known
-  - Iterator
+  - Queue: 🖐️ used
+  - Stack: 🖐️ used
+  - Deque: 🖐️ used
+  - Tree: 🖐️ used
+  - Graph: 🖐️ used
+  - Iterator: 🖐️ used
   - Mutable state
   - Immutable state
   - Serialization: 🎓 known
-  - String parsing: 🎓 known
-  - JSON: 🎓 known
+  - String parsing: 🖐️ used
+  - JSON: 🖐️ used
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS: 🖐️ used
   - CDN
   - CORS
-  - IPv4
-  - IPv6
+  - IPv4: 🖐️ used
+  - IPv6: 🖐️ used
   - NAT
   - URL
   - URN
   - URI
 - Process and tools
-  - Compiler: 🎓 known
+  - Compiler: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -152,45 +152,45 @@
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime: 🎓 known
+  - Runtime: 🖐️ used
   - Virtual machine: 🎓 known
   - Register-based VM
   - Stack-based VM
   - Containerization
   - Debugger
   - Tracing
-  - Garbage collection: 🎓 known
-  - Refactoring: 🎓 known
-  - Code review: 🎓 known
+  - Garbage collection: 🖐️ used
+  - Refactoring: 🖐️ used
+  - Code review: 🖐️ used
   - Exception
   - Unittesting
-  - git: 🎓 known
-  - Github: 🎓 known
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker: 🎓 known
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers: 🖐️ used
+  - Hard code: 🖐️ used
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti: 🎓 known
-  - Silver bullet: 🎓 known
-  - Not invented here: 🎓 known
-  - Dead code: 🎓 known
+  - Spaghetti: 🖐️ used
+  - Silver bullet: 🖐️ used
+  - Not invented here: 🖐️ used
+  - Dead code: 🖐️ used
   - Unreachable code: 🎓 known
   - Duplicate code: 🎓 known
   - Premature optimization
   - Micro-optimization: 🎓 known
-  - Nested loops
+  - Nested loops: 🎓 known
   - Long method/function/procedure: 🎓 known
   - Long inheritance
   - Large class/file: 🎓 known
-  - Too many parameters
+  - Too many parameters: 🎓 known
   - Pass-through parameters
   - Accumulate and fire
   - Use switch/case: 🎓 known
@@ -228,12 +228,12 @@
   - IETF
   - IANA
   - IEEE
-  - Base64: 🎓 known
+  - Base64: 🖐️ used
   - ECMA
   - ICANN
   - ISO
   - MIME
   - OWASP
-  - UTF-8: 🎓 known
+  - UTF-8: 🖐️ used
   - W3C
   - ODMG

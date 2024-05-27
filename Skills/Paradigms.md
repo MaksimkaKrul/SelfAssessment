@@ -29,18 +29,18 @@
 - OOP basics
   - Constructor: 🎓 known
   - Operator `new`
-  - Static method: 🎓 known
+  - Static method: 🙋 explained
   - Method: 🎓 known
   - Async method: 🎓 known
   - Getters, Setters: 🎓 known
   - Public fields: 🎓 known
-  - Private fields: 🎓 known
+  - Private fields: 🙋 explained
   - Field declarations: 🎓 known
   - Inheritance
   - Parent class
   - Polymorphism: 🎓 known
   - Abstract class
-  - Interface
+  - Interface: 🎓 known
   - Encapsulation
   - Hidden class
   - Object form
@@ -65,17 +65,17 @@
   - Dependency inversion principle (DIP)
 - Patterns
   - Singleton
-  - Factory Method
+  - Factory Method: 🎓 known
   - Abstract Factory
   - Adapter
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  - Proxy: 🎓 known
   - Chain of Responsibility
   - Command
-  - Iterator
-  - State
+  - Iterator: 🙋 explained
+  - State: 🎓 known
   - Bridge
   - Builder
   - Prototype: 🎓 known
@@ -84,7 +84,7 @@
   - Flyweight
   - Mediator
   - Memento
-  - Template Method
+  - Template Method: 🎓 known
   - Visitor
   - Reactor
   - Active object
