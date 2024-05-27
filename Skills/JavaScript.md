@@ -30,7 +30,7 @@
   - `globalThis`: 🖐️ used
   - `window`: 🖐️ used
   - Getters and setters: 🖐️ used
-  - `__proto__`: 🖐️ used🖐️ used
+  - `__proto__`: 🖐️ used🖐️ used 👉 Warning: not matching level and emoji
   - `prototype`: 🖐️ used
   - Equality operators: 🖐️ used
   - Logical operators: 🖐️ used
